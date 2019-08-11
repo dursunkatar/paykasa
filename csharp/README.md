@@ -1,4 +1,4 @@
 # paykasa
 paykasa hesap takip aracı
 
-![paykasa](https://github.com/dursunkatar/paykasa-hesap/blob/master/paykasahesap.jpg)
+![paykasa](https://github.com/dursunkatar/paykasa/blob/master/csharp/paykasahesap.jpg)
